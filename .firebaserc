@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-f9081": {
+      "hosting": {
+        "evericapp": [
+          "login-ng-f9081"
+        ]
+      }
+    }
+  }
+}

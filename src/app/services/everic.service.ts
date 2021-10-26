@@ -17,7 +17,7 @@ export class EvericService {
     const url = `https://api.spotify.com/v1/${ query }`;
 
     const headers = new HttpHeaders({
-      'Authorization': 'Bearer BQBDFRXSOkoCVvCefJx3h9di-Jc4lmffWZzbtovrnWbZno1Jx7pVQkjF0h9ju2f3g2mIlI2642YR1ZulhtY'
+      'Authorization': 'Bearer BQBTqTqprBxcda1al0ss_Bw-myOGdagOivV-WcoMO1bBY4aYJRyC4eiH6vwUJxfiHpE4VfwwqSNTTqYRUBQ'
     });
 
     return this.http.get( url, { headers });
